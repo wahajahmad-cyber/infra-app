@@ -30,3 +30,4 @@ terraform.rc
 
 # Python virtual environment
 venv/
+.terraform.lock.hcl
